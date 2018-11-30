@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\c#\Timeconsole\Timeconsole\bin\Debug\Timeconsole.exe.config
+C:\Users\Administrator\Desktop\c#\Timeconsole\Timeconsole\bin\Debug\Timeconsole.exe
+C:\Users\Administrator\Desktop\c#\Timeconsole\Timeconsole\bin\Debug\Timeconsole.pdb
+C:\Users\Administrator\Desktop\c#\Timeconsole\Timeconsole\obj\Debug\Timeconsole.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\c#\Timeconsole\Timeconsole\obj\Debug\Timeconsole.Time_console.resources
+C:\Users\Administrator\Desktop\c#\Timeconsole\Timeconsole\obj\Debug\Timeconsole.Properties.Resources.resources
+C:\Users\Administrator\Desktop\c#\Timeconsole\Timeconsole\obj\Debug\Timeconsole.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\c#\Timeconsole\Timeconsole\obj\Debug\Timeconsole.exe
+C:\Users\Administrator\Desktop\c#\Timeconsole\Timeconsole\obj\Debug\Timeconsole.pdb
